@@ -1,0 +1,86 @@
+# virtual Box & Ubuntu 16.04
+the 1st task in second week in internship at Smart Methods
+
+## 1.VirtualBox
+![alt text](https://lh3.googleusercontent.com/proxy/4Xjy6NLvwivk7BmaXxwKLdd7XfQ0pajuagOoxVLM3rKmpfxTLCdJWcCSRCoFPunBLaAz6wq_SgE8p8WrCcfrB66wmBSby3SYQbmFjQU4SGT3Kbrpfpg)
+
+you have to install virtualbox from [here](https://www.virtualbox.org/)
+
+dwonload [Ubuntu 16.04](https://releases.ubuntu.com/16.04/) as shown below 
+
+![2](https://user-images.githubusercontent.com/62897025/85440477-1c9ea880-b55c-11ea-966b-540b82c5e9f9.PNG)
+[Ubuntu 16.04](https://releases.ubuntu.com/16.04/)
+
+#### VirtualBox
+is open-source software for virtualizing the computing architecture. It acts as a hypervisor, creating a VM (virtual machine) in which the user can run another OS (operating system).
+to run ubuntu inside windows  
+
+first step after installing VirtualBox 
+Open vertualbox
+
+#### 1.click on New
+
+![1](https://user-images.githubusercontent.com/62897025/85438653-2e7f4c00-b55a-11ea-8f70-67485378515b.PNG)
+
+#### Name:
+Ubuntu 16.04
+
+#### Type:
+Linux 
+
+#### Version:
+windows (64-bit) depend on you laptop 
+
+#### 2.select RAM your need in the Ubuntu for example i chose 4 ram out of 16
+
+![3](https://user-images.githubusercontent.com/62897025/85444723-a2245780-b560-11ea-97b3-1209919b7a5b.PNG)
+
+#### 3.create a vertual hard disk now 
+
+![44](https://user-images.githubusercontent.com/62897025/85445613-91c0ac80-b561-11ea-8309-45ffe1cdc54d.PNG)
+
+#### 4.VDI
+![5](https://user-images.githubusercontent.com/62897025/85446586-9d60a300-b562-11ea-8004-e1b45aa09535.PNG)
+
+#### 5.Fixed size 
+![66](https://user-images.githubusercontent.com/62897025/85447141-44ddd580-b563-11ea-9627-157b6acbde72.PNG)
+
+#### 6.chose the capacity of ubuntu OS and Upload the Ubuntu file to Vrtuial Box
+recomanded 30 GB or 40 GB
+
+![77](https://user-images.githubusercontent.com/62897025/85447467-a8680300-b563-11ea-8957-0e13eefc23eb.PNG)
+
+![88](https://user-images.githubusercontent.com/62897025/85447948-2926ff00-b564-11ea-9b04-3664874dc0db.PNG)
+
+wait for upload 
+
+#### 7.click right then start then normal start
+![99](https://user-images.githubusercontent.com/62897025/85447997-3b08a200-b564-11ea-8f01-b0ea33ab52ff.PNG)
+
+#### 8.start
+![10 10](https://user-images.githubusercontent.com/62897025/85448438-af434580-b564-11ea-9350-f055967720a5.PNG)
+
+#### 9.install Ubuntu 
+![1111](https://user-images.githubusercontent.com/62897025/85448616-e0237a80-b564-11ea-97b2-65c71a2f6b65.PNG)
+
+#### 10.install 3rd part flash,..ect 
+![1212](https://user-images.githubusercontent.com/62897025/85448627-e1ed3e00-b564-11ea-9996-45ab1e383ff1.PNG)
+
+#### 11.Erase 
+![1313](https://user-images.githubusercontent.com/62897025/85448639-e44f9800-b564-11ea-8f41-391c57fe19f3.PNG)
+
+then 
+
+#### 12.choose your region Saudi Arabia 
+
+#### 13.choose your language English 
+
+#### 14.put you user name & password 
+
+wait for loading 
+
+#### 15.Restart 
+
+### now the Ubuntu 16.04 is a new OS ready to work ,by using VirtualBox  
+
+
