@@ -1,1 +1,72 @@
-# Ros 
+# install Ros : robotic operating system 
+
+![1280px-Ros_logo svg](https://user-images.githubusercontent.com/62897025/85590216-37cbef80-b612-11ea-8413-6e3871b398c0.png)
+
+#### the main target of ROS to link OS with sensors working as node.
+
+first step open Ubuntu 16.04 (note this way just for 16.04 & 15.10 )
+
+then open terminal 
+
+#### CTRL+ALT+T 
+
+then write 
+
+#### 1.setup your source.list 
+
+`sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'`
+
+![a1](https://user-images.githubusercontent.com/62897025/85599373-72398a80-b61a-11ea-8c77-9232c511802b.PNG)
+
+#### 2.setup your key 
+``
+`sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654`
+
+![2](https://user-images.githubusercontent.com/62897025/85599696-c17fbb00-b61a-11ea-821b-ce73ab8eb925.PNG)
+
+#### 3.update 
+
+`sudo apt-get update`
+
+![3](https://user-images.githubusercontent.com/62897025/85599985-0c013780-b61b-11ea-8d89-fa106c0665ba.PNG)
+
+#### 4.Full installation 
+
+`sudo apt-get install ros-kinetic-desktop-full`
+
+![4](https://user-images.githubusercontent.com/62897025/85600382-6d290b00-b61b-11ea-8b69-ea3883cb1102.PNG)
+
+#### 5.Enviroment setup 
+
+`echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc`
+
+`source ~/.bashrc`
+
+#### 6.Dependencies for building packages
+
+`sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential`
+
+
+#### 7.Initialize rosdep
+
+`sudo apt install python-rosdep`
+
+`sudo rosdep init`
+
+`rosdep update`
+
+![66](https://user-images.githubusercontent.com/62897025/85601708-9f873800-b61c-11ea-937e-52240b8c903a.PNG)
+
+#### 8.check enviroment 
+
+`printenv | grep ROS `
+
+![8](https://user-images.githubusercontent.com/62897025/85601724-a31abf00-b61c-11ea-9cad-a05e51773fec.PNG)
+
+
+### ROS installation finish 
+
+
+
+
+
