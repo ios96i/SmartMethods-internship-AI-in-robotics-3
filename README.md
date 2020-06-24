@@ -8,5 +8,5 @@
 
 ## 2.in addition :
 
-#### 1.install anaconda 
-#### 2.install libraries (tensorflow gpu,OpenCv,pandas, sklearn, matplotlib)
+#### 1.install anaconda (soon) 
+#### 2.install libraries (tensorflow gpu,OpenCv,pandas, sklearn, matplotlib) (soon)
