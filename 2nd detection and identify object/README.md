@@ -6,7 +6,9 @@
 
 ### Im using Google Colab to get GPU to accelarate the process and train 
 
-#### check requirements.txt to install all librarties included using Google Colab & Anaconda 
+#### check requirements.txt to install all librarties included 
+
+#### using Google Colab & Anaconda 
 
 ##### pytorch
 
