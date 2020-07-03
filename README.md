@@ -1,4 +1,4 @@
-# Internship Online Smart Methods 
+# Internship Smart Methods 
 
 ![1_37ABKi4XeHkEWHxlF3LIog](https://user-images.githubusercontent.com/62897025/85574504-d6e9ea80-b604-11ea-9eee-5fb5972cb1e1.gif)
 
