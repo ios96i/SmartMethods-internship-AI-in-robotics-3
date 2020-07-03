@@ -6,10 +6,10 @@
 
 ### Im using Google Colab to get GPU to accelarate the process and train 
 
-#### chick requirements.txt to install all librarties included using Google Colab & Anaconda 
+#### check requirements.txt to install all librarties included using Google Colab & Anaconda 
 
-pytorch
+##### pytorch
 
-YOLOv3
+##### YOLOv3
 
-OpenCV 
+##### OpenCV 
