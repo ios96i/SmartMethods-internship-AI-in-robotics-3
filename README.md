@@ -19,17 +19,17 @@
 
 ### 3.1 create 2 nodes sharing a string massage a custom package 
 
-#### - create Ros workspace 
+ - create Ros workspace 
 
-#### - create new package 
+ - create new package 
 
-#### - create publosher & subscriber nodes using python
+ - create publosher & subscriber nodes using python
 
 ### 3.2 instal tutlebot3
 
-#### - install turtulebot3 package 
+ - install turtulebot3 package 
 
-#### - install turtulebot3_sunulation package
+- install turtulebot3_sunulation package
 
-#### - Lunch any simulation file
+- Lunch any simulation file
 
