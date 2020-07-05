@@ -5,13 +5,13 @@
 
 ## 1.install Ros & ubunu 16.04
 
-#### 1.intall vertuall box & Ubuntu 16.04 (done)
+#### 1.1 intall vertuall box & Ubuntu 16.04 (done)
 
-#### 2.install Ros : Robotic opreating system (done)
+#### 1.2 install Ros : Robotic opreating system (done)
 
 ## 2. Extract URL & Using OpenCV
 
-#### 1.Extract text from URL (done)
+#### 2.1 Extract text from URL (done)
 
-#### 2.Using Face detection & Open Cv some Example
+#### 2.2 Using Face detection & Open Cv some Example (done)
 
