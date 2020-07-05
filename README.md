@@ -15,3 +15,21 @@
 
 #### 2.2 Using Face detection & Open Cv some Example (done)
 
+## 3. Create 2 nodes & Install Tutlebot 3
+
+### 3.1 create 2 nodes sharing a string massage a custom package 
+
+#### - create Ros workspace 
+
+#### - create new package 
+
+#### - create publosher & subscriber nodes using python
+
+### 3.2 instal tutlebot3
+
+#### - install turtulebot3 package 
+
+#### - install turtulebot3_sunulation package
+
+#### - Lunch any simulation file
+
