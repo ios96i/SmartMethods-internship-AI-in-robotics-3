@@ -15,7 +15,7 @@
 
 #### 2.2 Using Face detection & Open Cv some Example (done)
 
-## 3. Create 2 nodes & Install Tutlebot 3
+## 3. Create 2 nodes & Install Turtlebot 3
 
 ### 3.1 create 2 nodes sharing a string massage a custom package 
 
@@ -25,11 +25,11 @@
 
  - create publosher & subscriber nodes using python
 
-### 3.2 instal tutlebot3
+### 3.2 instal turtlebot3
 
- - install turtulebot3 package 
+ - install turtlebot3 package 
 
-- install turtulebot3_sunulation package
+- install turtlebot3_sunulation package
 
 - Lunch any simulation file
 
