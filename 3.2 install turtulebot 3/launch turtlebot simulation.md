@@ -18,4 +18,6 @@ then write this to lunching
 
 it will be lunching for Turtlebot3 simulation 
 
-see the result [here] 
+see the result [here](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/blob/master/3.2%20install%20turtulebot%203/result.png) 
+
+- [X] launching turtlebot3 simulation 
