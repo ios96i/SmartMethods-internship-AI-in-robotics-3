@@ -17,7 +17,7 @@
 
 ## 3. Create 2 nodes & Install Turtlebot 3
 
-### 3.1 create 2 nodes sharing a string massage a custom package 
+#### 3.1 create 2 nodes sharing a string massage a custom package 
 
  - create Ros workspace 
 
@@ -25,7 +25,7 @@
 
  - create publosher & subscriber nodes using python
 
-### 3.2 instal turtlebot3 (Done)
+#### 3.2 instal turtlebot3 (Done)
 
  - install turtlebot3 package 
 
