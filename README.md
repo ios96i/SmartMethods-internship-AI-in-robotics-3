@@ -25,7 +25,7 @@
 
  - create publosher & subscriber nodes using python
 
-### 3.2 instal turtlebot3
+### 3.2 instal turtlebot3 (Done)
 
  - install turtlebot3 package 
 
