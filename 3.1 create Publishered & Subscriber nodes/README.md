@@ -25,7 +25,7 @@ $ chmod +x talker.py
  
  /catkin_ws/src/tutirial_beginner/scripts/ 
  
- this is the **result**
+ this is the result **talker.py**
  
  
  ## 2.create Subscriber node
