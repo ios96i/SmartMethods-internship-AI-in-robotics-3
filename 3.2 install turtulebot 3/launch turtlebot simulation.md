@@ -14,7 +14,7 @@ then write this to lunching
 
 `export TURTLEBOT3_MODEL=burger`
 
-'roslaunch turtlebot3_fake turtlebot3_fake.launch'
+`roslaunch turtlebot3_fake turtlebot3_fake.launch`
 
 it will be lunching for Turtlebot3 simulation 
 
