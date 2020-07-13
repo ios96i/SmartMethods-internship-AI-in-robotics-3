@@ -5,19 +5,19 @@
 
 ## 1.install Ros & ubunu 16.04
 
-#### 1.1 intall vertuall box & Ubuntu 16.04 (done)
+#### 1.1 intall vertuall box & Ubuntu 16.04 [(done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/blob/master/1.1%20virualBox%20%26Ubuntu16.04%20.md)
 
-#### 1.2 install Ros : Robotic opreating system (done)
+#### 1.2 install Ros : Robotic opreating system [(done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/blob/master/1.2%20Install%20Ros.md)
 
 ## 2. Extract URL & Using OpenCV
 
-#### 2.1 Extract text from URL (done)
+#### 2.1 Extract text from URL [(done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/tree/master/2nd%20read%20URL)
 
-#### 2.2 Using Face detection & Open Cv some Example (done)
+#### 2.2 Using Face detection & Open Cv some Example [(done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/tree/master/2nd%20detection%20and%20identify%20object)
 
 ## 3. Create 2 nodes & Install Turtlebot 3
 
-#### 3.1 create 2 nodes sharing a string massage a custom package 
+#### 3.1 create 2 nodes sharing a string massage a custom package [(Done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/tree/master/3.1%20create%20Publishered%20%26%20Subscriber%20nodes)
 
  - create Ros workspace 
 
@@ -25,7 +25,7 @@
 
  - create publosher & subscriber nodes using python
 
-#### 3.2 instal turtlebot3 (Done)
+#### 3.2 instal turtlebot3 [(Done)](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/tree/master/3.2%20install%20turtulebot%203)
 
  - install turtlebot3 package 
 
