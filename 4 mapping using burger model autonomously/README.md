@@ -15,6 +15,8 @@ the simulation will open
 
 ![](https://emanual.robotis.com/assets/images/platform/turtlebot3/simulation/turtlebot3_world_bugger.png)
 
+[**turtle world and scan**](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/blob/master/4%20mapping%20using%20burger%20model%20autonomously/turtle%20world%20and%20scan.png)
+
 then we have to open the **map** 
 
 open new terminal
