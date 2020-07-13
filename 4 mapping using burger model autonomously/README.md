@@ -38,4 +38,4 @@ to save map
 
 `$ rosrun map_server map_saver -f ~/map`
 
-the result [**here**]()
+the result [**here**](https://github.com/ios96i/SmartMethods-internship-AI-in-robotics-3/blob/master/4%20mapping%20using%20burger%20model%20autonomously/Result%20fullscan.png)
