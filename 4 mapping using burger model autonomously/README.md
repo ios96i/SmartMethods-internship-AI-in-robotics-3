@@ -7,7 +7,7 @@
  * TurtleBot3 World
  
  ```
- $ export TURTLEBOT3_MODEL=${TB3_MODEL}
+ $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch 
 ```
 
